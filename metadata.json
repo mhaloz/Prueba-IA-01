@@ -1,0 +1,5 @@
+{
+  "name": "DentalClinic Manager",
+  "description": "A comprehensive dental clinic management system for handling dentists, patients, and appointments with conflict detection.",
+  "requestFramePermissions": []
+}
